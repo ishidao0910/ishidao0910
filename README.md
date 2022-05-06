@@ -49,23 +49,35 @@ Welcome to my page!
       
 ## Portfolio
 - 2018/01 ~ 2019/01 
+
 - 個人開発 
+
 - バイナリーオプション取引補助ツール作成 <br>
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=Binary-Option-Indicator)](https://github.com/anuraghazra/github-readme-stats)
 
 - 2020/07 ~ 2021/11 
+
 - 個人開発　
+
 - LINE分析ツール <br>
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=line-talk-analysis-test)](https://github.com/anuraghazra/github-readme-stats)
   
 - 2021/12 ~ 2021/12 
+
 - チーム開発(2名) 
+
 - サポーターズ主催ハッカソン (最優秀賞) <br>
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/anuraghazra/github-readme-stats)
 
 - 2022/5 ~ 2022/5
+
 -  個人開発
+
 -   Twitterのフォロワー整理 <br>
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
