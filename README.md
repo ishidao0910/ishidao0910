@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to my page!　I am a junior at a Japanese university majoring in Computer Information.
+Welcome to my page! I am a junior at a Japanese university majoring in Computer Information.
 
   - 🧞‍♂️ me : Go Ishidao
   - 🇯🇵 from : Japan
