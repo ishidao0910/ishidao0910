@@ -17,13 +17,15 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao/posts.svg" />
   </a>
   <//qiita.com/ishidao">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao0910/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao/contributions.svg" />
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ishidao0910&layout=compact&show_icons=ture" />
+</p>
+  
 
 # Greetings
 
