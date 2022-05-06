@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishidao0910&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ishidao0910)](https://github.com/anuraghazra/github-readme-stats)
+# Introduction
+:man: name : Go Ishidao
+:hatching_chick: twitter : https://twitter.com/BacktestL
 
 <!--
 **ishidao0910/ishidao0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-vision-friendly-dark
