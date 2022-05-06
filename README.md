@@ -29,8 +29,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ishidao0910&layout=compact&show_icons=ture&theme=vision-friendly-dark" />
 </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=vision-friendly-dark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=darkhub&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+  
+
 
 <br><br>
 
