@@ -1,11 +1,15 @@
 # Introduction
-:man: name : Go Ishidao <br>
-:hatching_chick: twitter : https://twitter.com/BacktestL <br>
-:green_book: qiita : https://qiita.com/ishidao <br>
+  - :man: name : Go Ishidao
+  - :hatching_chick: twitter : https://twitter.com/BacktestL
+  - :green_book: qiita : https://qiita.com/ishidao
+  - 🌱 technical interest : django, react, data engineering
 
-<br><br>
+<br>
 
 # Activities
+  all my activities
+
+## Overview
 <p align="left">
   <a href="https://github.com/ishidao0910/ishidao0910/">
     <img src="https://komarev.com/ghpvc/?username=ishidao0910" alt="ishidao0910" />
@@ -31,12 +35,15 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=darkhub&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+## Internship
+  - 株式会社EXIDEA as data analyst　(2020/11 ~ )
+  - 株式会社天地人 as software engineer (2022/04 ~ )
+    
+
   
-
-
-<br><br>
-
-# Greetings
 
 
 
