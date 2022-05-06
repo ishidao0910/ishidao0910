@@ -1,7 +1,8 @@
 ## Introduction
 Welcome to my page!
 
-  - 🇯🇵 name : Go Ishidao
+  - 🧞‍♂️ me : Go Ishidao
+  - 🇯🇵 from : Japan
   - :green_book: qiita : https://qiita.com/ishidao
   - :hatching_chick: twitter : https://twitter.com/BacktestL
   - 🌱 technical interest : django, react, data engineering
