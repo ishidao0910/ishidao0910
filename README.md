@@ -41,19 +41,24 @@ Welcome to my page!
 <br>
 
 ## Internship
-  - 株式会社EXIDEA as データサイエンティスト
-    2020年11月〜現在。長期インターンに参加 
-  - 株式会社天地人 as ソフトウェアエンジニア
-    2022年04月〜現在。長期インターンに参加
+  - 株式会社EXIDEA as a データサイエンティスト
+    2020年11月〜現在 長期インターンに参加 
+  - 株式会社天地人 as a ソフトウェアエンジニア
+    2022年04月〜現在 長期インターンに参加
       
       
 ## Portfolio
+2018/01 ~ 2019/01 個人開発 バイナリーオプション取引補助ツール作成
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=Binary-Option-Indicator)](https://github.com/anuraghazra/github-readme-stats)
+
+2020/07 ~ 2021/11 個人開発　LINE分析ツール
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=line-talk-analysis-test)](https://github.com/anuraghazra/github-readme-stats)
   
+2021/12 ~ 2021/12 チーム開発(2名) サポーターズ主催ハッカソン (最優秀賞)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-
-
-
+2022/5 ~ 2022/5 個人開発 Twitterのフォロワー整理
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ishidao0910/ishidao0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
