@@ -3,6 +3,8 @@
 :hatching_chick: twitter : https://twitter.com/BacktestL <br>
 :green_book: qiita : https://qiita.com/ishidao <br>
 
+<br><br>
+
 <p align="left">
   <a href="https://github.com/ishidao0910/ishidao0910/">
     <img src="https://komarev.com/ghpvc/?username=ishidao0910" alt="ishidao0910" />
@@ -26,6 +28,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ishidao0910&layout=compact&show_icons=ture" />
 </p>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=vision-friendly-dark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br><br>
 
 # Greetings
 
