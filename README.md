@@ -1,12 +1,34 @@
-### Hi there 👋
+# Introduction
+:man: name : Go Ishidao <br>
+:hatching_chick: twitter : https://twitter.com/BacktestL <br>
+:green_book: qiita : https://qiita.com/ishidao <br>
+
+<p align="left">
+  <a href="https://github.com/ishidao0910/ishidao0910/">
+    <img src="https://komarev.com/ghpvc/?username=ishidao0910" alt="ishidao0910" />
+  </a>
+  <a href="http://twitter.com/BacktestL">
+    <img height="20" src="https://img.shields.io/twitter/follow/BacktestL?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/ishidao0910">
+    <img height="20" src="https://img.shields.io/github/followers/ishidao0910?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ishidao">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao/posts.svg" />
+  </a>
+  <//qiita.com/ishidao">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao0910/contributions.svg" />
+  </a>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Introduction
-:man: name : Go Ishidao
-:hatching_chick: twitter : https://twitter.com/BacktestL
+# Greetings
+
+
+
 
 <!--
 **ishidao0910/ishidao0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
