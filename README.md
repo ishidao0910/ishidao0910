@@ -64,7 +64,7 @@ Welcome to my page!　I am a junior at a Japanese university majoring in Compute
 - 2021/12 ~ 2021/12 チーム開発(2名) 
 - サポーターズ主催ハッカソン (最優秀賞) <br>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/ishidao/hackason-love-p)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/ishidao0910/hackason-love-p)
 
 - 2022/5 ~ 2022/5 個人開発
 - Twitterのフォロワー整理 <br>
