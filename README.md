@@ -1,15 +1,15 @@
-# Introduction
-  - :man: name : Go Ishidao
-  - :hatching_chick: twitter : https://twitter.com/BacktestL
+## Introduction
+Welcome to my page!
+
+  - 🇯🇵 name : Go Ishidao
   - :green_book: qiita : https://qiita.com/ishidao
+  - :hatching_chick: twitter : https://twitter.com/BacktestL
   - 🌱 technical interest : django, react, data engineering
 
 <br>
 
-# Activities
-  all my activities
 
-## Overview
+## Activities
 <p align="left">
   <a href="https://github.com/ishidao0910/ishidao0910/">
     <img src="https://komarev.com/ghpvc/?username=ishidao0910" alt="ishidao0910" />
@@ -23,7 +23,8 @@
   <a href="http://qiita.com/ishidao">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao/posts.svg" />
   </a>
-  <//qiita.com/ishidao">
+<!--   <//qiita.com/ishidao"> -->
+  <a href="http://qiita.com/ishidao">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ishidao/contributions.svg" />
   </a>
 </p>
@@ -39,9 +40,14 @@
 <br>
 
 ## Internship
-  - 株式会社EXIDEA as data analyst　(2020/11 ~ )
-  - 株式会社天地人 as software engineer (2022/04 ~ )
-    
+  - 株式会社EXIDEA as データサイエンティスト
+    2020年11月〜現在。長期インターンに参加 
+  - 株式会社天地人 as ソフトウェアエンジニア
+    2022年04月〜現在。長期インターンに参加
+      
+      
+## Portfolio
+  
 
   
 
