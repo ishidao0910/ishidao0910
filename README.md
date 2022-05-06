@@ -22,7 +22,7 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishidao0910&show_icons=true&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ishidao0910&layout=compact&show_icons=ture" />
 </p>
   
