@@ -5,6 +5,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - 🇯🇵 from : Japan
   - :green_book: qiita : https://qiita.com/ishidao
   - :hatching_chick: twitter : https://twitter.com/BacktestL
+  - 💙 linkedin : www.linkedin.com/in/go-ishidao
   - 🌱 technical interest : django, react, data engineering
 
 <br>
