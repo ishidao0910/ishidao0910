@@ -43,9 +43,9 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 
 ## Internship
   - 株式会社EXIDEA as a データサイエンティスト
-    2020年11月~５月 長期インターンに参加 
+    2020年11月~5月 長期インターンに参加 
   - 株式会社天地人 as a ソフトウェアエンジニア
-    2022年04月〜現在 長期インターンに参加
+    2022年4月〜現在 長期インターンに参加
       
      
 
