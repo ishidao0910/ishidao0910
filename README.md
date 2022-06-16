@@ -56,8 +56,8 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 - 2022/5 ~ 2022/6 個人開発
 - github actionsでCI/CDの実装
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/github-actions-survey)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/github-actions-survey)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=github-actions-survey)](https://github.com/ishidao0910/github-actions-survey)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=kusa-bot)](https://github.com/ishidao0910/kusa-bot)
 
 
 - 2022/5 ~ 2022/5 個人開発
