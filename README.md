@@ -52,25 +52,38 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 <br>
 
 ## Portfolio
-- 2018/01 ~ 2019/01 個人開発 
-- バイナリーオプション取引補助ツール作成 <br>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=Binary-Option-Indicator)](https://github.com/ishidao0910/Binary-Option-Indicator)
+- 2022/5 ~ 2022/6 個人開発
+- github actionsでCI/CDの実装
 
-- 2020/07 ~ 2021/11 個人開発　
-- LINE分析ツール <br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/github-actions-survey)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/github-actions-survey)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=line-talk-analysis-test)](https://github.com/ishidao0910/line-talk-analysis-test)
-  
-- 2021/12 ~ 2021/12 チーム開発(2名) 
-- サポーターズ主催ハッカソン (最優秀賞) <br>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/ishidao0910/hackason-love-p)
 
 - 2022/5 ~ 2022/5 個人開発
 - Twitterのフォロワー整理 <br>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/twitter_follower_arrangement)
+  
+  
+- 2021/12 ~ 2021/12 チーム開発(2名) 
+- サポーターズ主催ハッカソン (最優秀賞) <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/ishidao0910/hackason-love-p)
+  
+  
+- 2020/07 ~ 2021/11 個人開発　
+- LINE分析ツール <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=line-talk-analysis-test)](https://github.com/ishidao0910/line-talk-analysis-test)
+
+
+- 2018/01 ~ 2019/01 個人開発 
+- バイナリーオプション取引補助ツール作成 <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=Binary-Option-Indicator)](https://github.com/ishidao0910/Binary-Option-Indicator)
+  
+
 
 <!--
 **ishidao0910/ishidao0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
