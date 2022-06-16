@@ -52,6 +52,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 <br>
 
 ## Portfolio
+### 新しいものから順に紹介
 
 2022/5 ~ 2022/6 個人開発 <br>
 github actionsでCI/CDの実装
