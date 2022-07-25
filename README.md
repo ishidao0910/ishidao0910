@@ -54,10 +54,10 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
     
 ## サマーインターン
   - 株式会社mixi TDDチャレンジ(2022/7/16)
-    - Rubyでテスト駆動開発を体験
-  - Retty株式会社 バックエンドエンジニア(2022/7/19 ~ 2022/8/5
+    - Rubyでテスト駆動開発体験
+  - Retty株式会社 バックエンドエンジニア(2022/7/19 ~ 2022/8/5)
     - Goによるマイクロサービス開発
-    - Clean Architecture実装
+    - Clean Architecture採用
     - KotlinとgRPCを主要技術として利用
     
   - 株式会社Cookpad バックエンドエンジニア(2022/8/15 ~ 2022/9/2)
