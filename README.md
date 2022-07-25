@@ -6,7 +6,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - :green_book: qiita : https://qiita.com/ishidao
   - :hatching_chick: twitter : https://twitter.com/BacktestL
   - 💙 linkedin : www.linkedin.com/in/go-ishidao
-  - 🌱 technical interest : django, react, data engineering
+  - 🌱 technical interest : Data Engineering, Clean Architecture, Golang,
 
 <br>
 
@@ -41,11 +41,30 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 
 <br>
 
-## Internship
-  - 株式会社EXIDEA as a データサイエンティスト
-    2020年11月~5月 長期インターンに参加 
-  - 株式会社天地人 as a ソフトウェアエンジニア
-    2022年4月〜現在 長期インターンに参加
+## 長期インターン
+  - 株式会社EXIDEA データサイエンティスト (2020/11/1 ~ 2022/5/30)
+    - ログの分析
+    - データパイプラインの整備
+    - ETL処理 → BIツールによる可視化
+    - レポートの自動化パイプライン実装
+    - 自然言語処理による研究開発
+  - 株式会社天地人 ソフトウェアエンジニア (2022/4/1 ~ **Now!!**)
+    - Django REST FrameworkでAPI開発
+    - データ基盤の設計
+    
+## サマーインターン
+  - 株式会社mixi TDDチャレンジ(2022/7/16)
+    - Rubyでテスト駆動開発を体験
+  - Retty株式会社 バックエンドエンジニア(2022/7/19 ~ 2022/8/5
+    - Goによるマイクロサービス開発
+    - Clean Architecture実装
+    - KotlinとgRPCを主要技術として利用
+    
+  - 株式会社Cookpad バックエンドエンジニア(2022/8/15 ~ 2022/9/2)
+    - Rubyによるwebアプリケーション開発
+    
+  - 株式会社Supership データエンジニア(2022/9/2 ~ 2022/9/15)
+    - 検索エンジンの開発
       
      
 
