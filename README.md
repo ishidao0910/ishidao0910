@@ -10,6 +10,8 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
 
 <br>
 
+test. test  
+test
 
 ## Activities
 <p align="left">
