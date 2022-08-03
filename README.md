@@ -8,10 +8,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - 💙 linkedin : www.linkedin.com/in/go-ishidao
   - 🌱 technical interest : Data Engineering, Clean Architecture, Golang,
 
-<br>
-
-test. test  
-test
+  
 
 ## Activities
 <p align="left">
