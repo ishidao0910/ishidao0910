@@ -57,13 +57,18 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - Retty株式会社 バックエンドエンジニア(2022/7/19 ~ 2022/8/5)
     - Goによるマイクロサービス開発
     - Clean Architecture採用
-    - KotlinとgRPCを主要技術として利用
+    - 通信プロトコルにgRPCを利用
     
   - 株式会社Cookpad バックエンドエンジニア(2022/8/15 ~ 2022/9/2)
-    - Rubyによるwebアプリケーション開発
+    - Ruby on RailsでCookpad Makerstownの新機能開発
+    - DataWarehouseの構築からTableauでダッシュボード作成まで
     
   - 株式会社Supership データエンジニア(2022/9/2 ~ 2022/9/15)
     - 検索エンジンの開発
+    - サジェストAPIにFastAPIを採用
+    - 検索側にElasticSearch
+    - フロント側はReact
+    - docker composeとGCPでデプロイ
       
      
 
