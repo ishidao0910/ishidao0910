@@ -49,7 +49,8 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
     - 自然言語処理による研究開発
   - 株式会社天地人 ソフトウェアエンジニア (2022/4/1 ~ **Now!!**)
     - Django REST FrameworkでAPI開発
-    - データ基盤の設計
+    - データ基盤の設計 with golang & mongoDB
+    - Compass MOONの開発(https://moon.compass.tenchijin.co.jp/)
     
 ## サマーインターン
   - 株式会社mixi TDDチャレンジ(2022/7/16)
