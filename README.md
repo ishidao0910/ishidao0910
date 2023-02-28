@@ -6,7 +6,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - :green_book: qiita : https://qiita.com/ishidao
   - :hatching_chick: twitter : https://twitter.com/BacktestL
   - 💙 linkedin : www.linkedin.com/in/go-ishidao
-  - 🌱 technical interest : Data Engineering, Clean Architecture, Golang,
+  - 🌱 technical interest : Airflow, nginx
 
   
 
@@ -35,88 +35,76 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ishidao0910&hide=stars&count_private=true&layout=compact&show_icons=ture&theme=vision-friendly-dark" />
 </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=darkhub&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ishidao0910&theme=darkhub&column=7&title=Commit,PullRequest,Issue,Repository
+)
 
 <br>
 
-## 長期インターン
-  - 株式会社EXIDEA データサイエンティスト (2020/11/1 ~ 2022/5/30)
-    - ログの分析
-    - データパイプラインの整備
-    - ETL処理 → BIツールによる可視化
-    - レポートの自動化パイプライン実装
-    - 自然言語処理による研究開発
-  - 株式会社天地人 ソフトウェアエンジニア (2022/4/1 ~ **Now!!**)
-    - Django REST FrameworkでAPI開発
-    - データ基盤の設計 with golang & mongoDB
-    - Compass MOONの開発(https://moon.compass.tenchijin.co.jp/)
+## Long-term Internship
+
+EXIDEA Inc. Data Scientist (November 1, 2020 ~ May 30, 2022)
+
+```yaml
+# technology stack
+lang: Python
+aws services:
+    analysis: 
+        - SageMaker
+        - QuickSight
+    ETL:
+        - Glue
+        - Lambda
+        - Cloud Watch
+        - S3
+data base: 
+    - MySQL
+    - MongoDB
+```
+
+- Log analysis
+- Data pipeline maintenance
+- ETL processing → visualization using BI tools
+- Implementation of automated report pipeline
+- Research and development using natural language processing
+
+
+Tenchijin Inc. Software Engineer (April 1, 2022 ~ Now)
+
+```yaml
+# technology stack
+lang: Python, Go, Vue3
+aws services:
+    - ECR
+    - ECS
+    - S3
+pipeline services:
+    - Airflow
+data base: 
+    - PostgreSQL
+    - MongoDB
+```
+
+- API Development with DRF
+- Design of data infrastructure
+- Development of Compass MOON (https://moon.compass.tenchijin.co.jp/)
+- Data pipeline maintenance
     
-## サマーインターン
-  - 株式会社mixi TDDチャレンジ(2022/7/16)
-    - Rubyでテスト駆動開発体験
-  - Retty株式会社 バックエンドエンジニア(2022/7/19 ~ 2022/8/5)
-    - Goによるマイクロサービス開発
-    - Clean Architecture採用
-    - 通信プロトコルにgRPCを利用
-    
-  - 株式会社Cookpad バックエンドエンジニア(2022/8/15 ~ 2022/9/2)
-    - Ruby on RailsでCookpad Makerstownの新機能開発
-    - DataWarehouseの構築からTableauでダッシュボード作成まで
-    
-  - 株式会社Supership データエンジニア(2022/9/2 ~ 2022/9/15)
-    - 検索エンジンの開発
-    - サジェストAPIにFastAPIを採用
-    - 検索側にElasticSearch
-    - フロント側はReact
-    - docker composeとGCPでデプロイ
+## Summer Internship
+
+- mixi Inc. TDD Challenge (July 16, 2022)
+  - Test-driven development experience with Ruby
+- Retty Inc. Backend Engineer (July 19, 2022 ~ August 5, 2022)
+  - Microservice development with Go
+  - Adoption of Clean Architecture
+  - Use of gRPC for communication protocol
+- Cookpad Inc. Backend Engineer (August 15, 2022 ~ September 2, 2022)
+  - Development of new features for Cookpad Makerstown with Ruby on Rails
+  - Construction of DataWarehouse and creation of dashboards with Tableau
+- Supership Inc. Data Engineer (September 2, 2022 ~ September 15, 2022)
+  - Development of a search engine
+  - Use of FastAPI for the suggest API
+  - ElasticSearch for the search side
+  - React for the front-end side
+  - Deployment using docker compose on GCP instance.
       
      
-
-<br>
-
-## Portfolio
-### 新しいものから順に紹介
-
-2022/5 ~ 2022/6 個人開発 <br>
-github actionsでCI/CDの実装
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=github-actions-survey)](https://github.com/ishidao0910/github-actions-survey)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=kusa-bot)](https://github.com/ishidao0910/kusa-bot)
-
-
-2022/5 ~ 2022/5 個人開発 <br>
-Twitterのフォロワー整理 <br>
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=twitter_follower_arrangement)](https://github.com/ishidao0910/twitter_follower_arrangement)
-  
-  
-2021/12 ~ 2021/12 チーム開発(2名) <br>
-サポーターズ主催ハッカソン (最優秀賞)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=hackason-love-p)](https://github.com/ishidao0910/hackason-love-p)
-  
-
-2020/07 ~ 2021/11 個人開発　<br>
-LINE分析ツール
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=line-talk-analysis-test)](https://github.com/ishidao0910/line-talk-analysis-test)
-
-
-2018/01 ~ 2019/01 個人開発 <br>
-バイナリーオプション取引補助ツール作成
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishidao0910&theme=vision-friendly-dark&repo=Binary-Option-Indicator)](https://github.com/ishidao0910/Binary-Option-Indicator)
-  
-
-
-<!--
-**ishidao0910/ishidao0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
