@@ -89,15 +89,15 @@ data base:
 - Development of Compass MOON (https://moon.compass.tenchijin.co.jp/)
 - Data pipeline maintenance
     
-## Summer Internship
+## Summer Internship 2022
 
-- mixi Inc. TDD Challenge (July 16, 2022)
+- mixi Inc. TDD Challenge (July 16)
   - Test-driven development experience with Ruby
-- Retty Inc. Backend Engineer (July 19, 2022 ~ August 5, 2022)
+- Retty Inc. Backend Engineer (July 19 ~ August 5)
   - Microservice development with Go
   - Adoption of Clean Architecture
   - Use of gRPC for communication protocol
-- Cookpad Inc. Backend Engineer (August 15, 2022 ~ September 2, 2022)
+- Cookpad Inc. Backend Engineer (August 15 ~ September 2)
   - Development of new features for Cookpad Makerstown with Ruby on Rails
   - Construction of DataWarehouse and creation of dashboards with Tableau
 - Supership Inc. Data Engineer (September 2, 2022 ~ September 15, 2022)
