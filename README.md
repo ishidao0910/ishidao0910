@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to my page! I am a junior at a Japanese university majoring in Computer Information.
+Welcome to my page! I am a senior at a Japanese university majoring in Computer Science.
 <p align="left">
   <a href="https://github.com/ishidao0910/ishidao0910/">
     <img src="https://komarev.com/ghpvc/?username=ishidao0910" alt="ishidao0910" />
@@ -24,7 +24,7 @@ Welcome to my page! I am a junior at a Japanese university majoring in Computer 
   - :green_book: qiita : https://qiita.com/ishidao
   - :hatching_chick: twitter : https://twitter.com/BacktestL
   - 💙 linkedin : www.linkedin.com/in/go-ishidao
-  - 🌱 technical interest : Airflow, nginx
+  - 🌱 technical interest : Data pipeline, Data orchestration
 
 <br>
 
